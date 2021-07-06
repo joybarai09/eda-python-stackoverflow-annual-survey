@@ -28,4 +28,5 @@ project = 'project_name'
 
 # Save the project
 import jovian
+
 jovian.commit(project=project)
